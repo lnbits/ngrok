@@ -1,0 +1,9 @@
+{
+    "repos": [
+        {
+            "id": "ngrok",
+            "organisation": "lnbits",
+            "repository": "ngrok"
+        }
+    ]
+}
